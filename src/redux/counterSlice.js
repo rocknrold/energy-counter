@@ -1,7 +1,7 @@
 import { createSlice } from "@reduxjs/toolkit";
 
 const initialState = {
-    energy : 0,
+    energy : 3,
     round: 1,
 }
 
